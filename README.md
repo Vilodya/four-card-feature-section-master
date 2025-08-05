@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
-- Live Site URL: [live site](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/Vilodya/four-card-feature-section-master)
+- Live Site URL: [live site](https://vilodya.github.io/four-card-feature-section-master/)
 
 ## My process
 
@@ -41,8 +41,6 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
