@@ -4,16 +4,16 @@
   align-items: center;
   min-height: 100%;
   font-family: var(--main-font);
+  background-color: #fafafa;
 }
 
 .main {
   display: flex;
   flex: 1;
-  padding-inline: 30px;
   max-width: 1440px;
+  padding-inline: 30px;
   padding-block-start: clamp(56px, calc(6.9048vw + 30.143px), 102px);
   padding-block-end: clamp(46px, calc(12.689vw + -1.285px), 163px);
-  background-color: var(--white);
 }
 
 
@@ -58,6 +58,7 @@
   border-radius: var(--spacing-100);
   padding: var(--spacing-400);
   box-shadow: 0 15px 30px -11px rgba(131, 166, 210, 0.5);
+  background-color: var(--white);
 }
 
 .card--supervisor {
