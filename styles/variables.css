@@ -1,0 +1,32 @@
+:root {
+  --gray-400: hsl(212, 6%, 44%);
+  --gray-500: hsl(234, 12%, 34%);
+  --white: hsl(0, 0%, 100%);
+
+  --red: hsl(0, 78%, 62%);
+  --cyan: hsl(180, 62%, 55%);
+  --blue: hsl(212, 86%, 64%);
+  --orange: hsl(34, 97%, 64%);
+
+  --main-font: 'Poppins', Arial, sans-serif;
+
+  --font-size-100: 13px;
+  --font-size-200: 15px;
+  --font-size-300: 20px;
+  --font-size-400: 24px;
+  --font-size-500: 36px;
+
+  --font-weight-200: 200;
+  --font-weight-400: 400;
+  --font-weight-600: 600;
+
+  --line-height-100: 1.35;
+  --line-height-200: 1.4;
+  --line-height-300: 1.6;
+
+  --spacing-100: 8px;
+  --spacing-200: 16px;
+  --spacing-300: 24px;
+  --spacing-400: 32px;
+  --spacing-500: 40px;
+}
